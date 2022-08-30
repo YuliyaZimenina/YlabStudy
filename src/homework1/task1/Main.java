@@ -4,16 +4,12 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * @Juliya Zimenina
- */
-
 /*
 1. Заполните двумерный массив случайным числами
  и выведите максимальное, минимальное и среднее значение.
  */
 
-public class Task1 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
