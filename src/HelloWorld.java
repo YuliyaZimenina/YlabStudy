@@ -1,5 +1,5 @@
 /**
-@author Juliya Zimenina
+ * @author Juliya Zimenina
  **/
 
 public class HelloWorld {
